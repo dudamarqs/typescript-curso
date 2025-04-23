@@ -1,0 +1,6 @@
+{
+    "code-runner.executorMap": {
+        "typescript": "cls && npx ts-node --files --transpileOnly",
+        // "typescript": "npx ts-node --transpileOnly", → deixa o ts-node mais rápido, mas não faz checagem.
+    }
+}
